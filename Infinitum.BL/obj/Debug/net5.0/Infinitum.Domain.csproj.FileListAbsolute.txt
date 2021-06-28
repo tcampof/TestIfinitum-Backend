@@ -1,0 +1,17 @@
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\bin\Debug\net5.0\Infinitum.Domain.deps.json
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\bin\Debug\net5.0\Infinitum.Domain.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\bin\Debug\net5.0\ref\Infinitum.Domain.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\bin\Debug\net5.0\Infinitum.Domain.pdb
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\bin\Debug\net5.0\Infinitum.Data.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\bin\Debug\net5.0\Infinitum.Models.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\bin\Debug\net5.0\Infinitum.Data.pdb
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\bin\Debug\net5.0\Infinitum.Models.pdb
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\obj\Debug\net5.0\Infinitum.Domain.csprojAssemblyReference.cache
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\obj\Debug\net5.0\Infinitum.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\obj\Debug\net5.0\Infinitum.Domain.AssemblyInfoInputs.cache
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\obj\Debug\net5.0\Infinitum.Domain.AssemblyInfo.cs
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\obj\Debug\net5.0\Infinitum.Domain.csproj.CoreCompileInputs.cache
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\obj\Debug\net5.0\Infinitum.Domain.csproj.CopyComplete
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\obj\Debug\net5.0\Infinitum.Domain.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\obj\Debug\net5.0\ref\Infinitum.Domain.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.BL\obj\Debug\net5.0\Infinitum.Domain.pdb

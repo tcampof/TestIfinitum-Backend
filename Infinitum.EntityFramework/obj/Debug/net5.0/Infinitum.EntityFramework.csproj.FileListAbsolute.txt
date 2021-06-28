@@ -1,0 +1,15 @@
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\bin\Debug\net5.0\Infinitum.EntityFramework.deps.json
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\bin\Debug\net5.0\Infinitum.EntityFramework.runtimeconfig.json
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\bin\Debug\net5.0\Infinitum.EntityFramework.runtimeconfig.dev.json
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\bin\Debug\net5.0\Infinitum.EntityFramework.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\bin\Debug\net5.0\ref\Infinitum.EntityFramework.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\bin\Debug\net5.0\Infinitum.EntityFramework.pdb
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\obj\Debug\net5.0\Infinitum.EntityFramework.csprojAssemblyReference.cache
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\obj\Debug\net5.0\Infinitum.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\obj\Debug\net5.0\Infinitum.EntityFramework.AssemblyInfoInputs.cache
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\obj\Debug\net5.0\Infinitum.EntityFramework.AssemblyInfo.cs
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\obj\Debug\net5.0\Infinitum.EntityFramework.csproj.CoreCompileInputs.cache
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\obj\Debug\net5.0\Infinitum.EntityFramework.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\obj\Debug\net5.0\ref\Infinitum.EntityFramework.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\obj\Debug\net5.0\Infinitum.EntityFramework.pdb
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.EntityFramework\obj\Debug\net5.0\Infinitum.EntityFramework.genruntimeconfig.cache

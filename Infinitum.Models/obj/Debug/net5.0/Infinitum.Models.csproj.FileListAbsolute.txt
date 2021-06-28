@@ -1,0 +1,12 @@
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.Models\bin\Debug\net5.0\Infinitum.Models.deps.json
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.Models\bin\Debug\net5.0\Infinitum.Models.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.Models\bin\Debug\net5.0\ref\Infinitum.Models.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.Models\bin\Debug\net5.0\Infinitum.Models.pdb
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.Models\obj\Debug\net5.0\Infinitum.Models.csprojAssemblyReference.cache
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.Models\obj\Debug\net5.0\Infinitum.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.Models\obj\Debug\net5.0\Infinitum.Models.AssemblyInfoInputs.cache
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.Models\obj\Debug\net5.0\Infinitum.Models.AssemblyInfo.cs
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.Models\obj\Debug\net5.0\Infinitum.Models.csproj.CoreCompileInputs.cache
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.Models\obj\Debug\net5.0\Infinitum.Models.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.Models\obj\Debug\net5.0\ref\Infinitum.Models.dll
+D:\Develoment\PruebaInfinitum\Infinitum-Backend-Core\Infinitum.EntityFramework\Infinitum.Models\obj\Debug\net5.0\Infinitum.Models.pdb
