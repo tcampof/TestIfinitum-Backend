@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bkcuycROjhEZR4NlShCBMyDzTQkL8VJeVUyUcsPW115MgyW5DtmNyUE3uMt+INbxUrOeNCrpg3jcRAlKl3pREA==",
+  "dgSpecHash": "1AkJpiOJg1NhB8A8pAuTdUxDxHkG8tqwhhP91RDqmc6N8kX/Rs5l7Ay7LndTmglPx8/kNRL7nSAx3+GhzHj8jQ==",
   "success": true,
-  "projectFilePath": "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.WebApi\\Infinitum.WebApi.csproj",
+  "projectFilePath": "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.WebApi\\Infinitum.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tomás Campo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Tomás Campo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

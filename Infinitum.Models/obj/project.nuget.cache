@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v+iWsWA/hVsivGS5XyQB5cteXP0hgv8fsNZ2YiA3J8Dk3j9fWoncmOwCp7eoYVVVW/0Ipyi2qeB+NPTv/ISd7w==",
+  "dgSpecHash": "092cU6mkLyAYCBb4l+3z75LhV4N4SDiGWaFdzzHdwqWI08Lli/X2isWwdOhH8mj6HZo+DaIBjtim5nJhzRFD3A==",
   "success": true,
-  "projectFilePath": "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.Models\\Infinitum.Models.csproj",
+  "projectFilePath": "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.Models\\Infinitum.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

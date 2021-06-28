@@ -7557,11 +7557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.BL\\Infinitum.Domain.csproj",
+      "projectUniqueName": "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.BL\\Infinitum.Domain.csproj",
       "projectName": "Infinitum.Domain",
-      "projectPath": "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.BL\\Infinitum.Domain.csproj",
+      "projectPath": "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.BL\\Infinitum.Domain.csproj",
       "packagesPath": "C:\\Users\\Tomás Campo\\.nuget\\packages\\",
-      "outputPath": "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.BL\\obj\\",
+      "outputPath": "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tomás Campo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7578,11 +7578,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.EntityFramework\\Infinitum.Data.csproj": {
-              "projectPath": "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.EntityFramework\\Infinitum.Data.csproj"
+            "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.EntityFramework\\Infinitum.Data.csproj": {
+              "projectPath": "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.EntityFramework\\Infinitum.Data.csproj"
             },
-            "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.Models\\Infinitum.Models.csproj": {
-              "projectPath": "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.Models\\Infinitum.Models.csproj"
+            "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.Models\\Infinitum.Models.csproj": {
+              "projectPath": "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.Models\\Infinitum.Models.csproj"
             }
           }
         }

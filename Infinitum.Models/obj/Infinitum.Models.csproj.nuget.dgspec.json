@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.Models\\Infinitum.Models.csproj": {}
+    "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.Models\\Infinitum.Models.csproj": {}
   },
   "projects": {
-    "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.Models\\Infinitum.Models.csproj": {
+    "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.Models\\Infinitum.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.Models\\Infinitum.Models.csproj",
+        "projectUniqueName": "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.Models\\Infinitum.Models.csproj",
         "projectName": "Infinitum.Models",
-        "projectPath": "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.Models\\Infinitum.Models.csproj",
+        "projectPath": "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.Models\\Infinitum.Models.csproj",
         "packagesPath": "C:\\Users\\Tomás Campo\\.nuget\\packages\\",
-        "outputPath": "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.Models\\obj\\",
+        "outputPath": "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tomás Campo\\AppData\\Roaming\\NuGet\\NuGet.Config",

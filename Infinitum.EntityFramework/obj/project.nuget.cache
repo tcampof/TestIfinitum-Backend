@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZB8stYf6wdmJkCH9Pozkpp/OzkVpvTIfRD8aFNfJprj34ZqFQ8PbMbA0MPjA8axZ+v8aDAB5ZVKydhIelhvGKQ==",
+  "dgSpecHash": "CoLnhT0AQsCxCr7pvDdXopnQPovc8hNBhIR/URN944I4fB0EjRgj5MKHFifq7qyndAsdGkcrxofUejlSQiq0lw==",
   "success": true,
-  "projectFilePath": "D:\\Develoment\\PruebaInfinitum\\Infinitum-Backend-Core\\Infinitum.EntityFramework\\Infinitum.EntityFramework\\Infinitum.Data.csproj",
+  "projectFilePath": "D:\\Develoment\\Repositorio Git\\PruebaInfinitum\\Back\\Infinitum.EntityFramework\\Infinitum.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tomás Campo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Tomás Campo\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
